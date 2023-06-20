@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shohanurshihab 👨🏽‍💻
 - 👀 I’m interested in development
-- 🌱 I’m currently learning ASP.net
+- 🌱 I’m currently learning JS frameworks
  
 
 
